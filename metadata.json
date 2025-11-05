@@ -1,0 +1,8 @@
+{
+  "name": "Multimodal Emotional Assistant",
+  "description": "A prototype that detects user emotion from face, voice, and text to generate empathetic responses with text and voice replies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
